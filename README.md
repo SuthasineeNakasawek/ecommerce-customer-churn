@@ -53,3 +53,11 @@ Python implementation was developed using course materials together with AI-assi
 
 ## Status
 Completed academic team project.
+
+## Notebook Versions
+
+- `ecommerce_churn_original_coursework.ipynb`  
+  Original academic coursework version developed for a graduate Machine Learning course.
+
+- `ecommerce_churn_refactored.ipynb`  
+  Refactored portfolio version with improved preprocessing, leakage control, model evaluation, and business interpretation.
